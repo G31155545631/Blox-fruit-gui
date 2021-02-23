@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:Kick("you are Kick form the game BAN")
